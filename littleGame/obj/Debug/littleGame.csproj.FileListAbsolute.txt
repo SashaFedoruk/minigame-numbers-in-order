@@ -1,0 +1,27 @@
+c:\users\александр\documents\visual studio 2013\Projects\littleGame\littleGame\bin\Debug\littleGame.exe.config
+c:\users\александр\documents\visual studio 2013\Projects\littleGame\littleGame\bin\Debug\littleGame.exe
+c:\users\александр\documents\visual studio 2013\Projects\littleGame\littleGame\bin\Debug\littleGame.pdb
+c:\users\александр\documents\visual studio 2013\Projects\littleGame\littleGame\obj\Debug\littleGame.csprojResolveAssemblyReference.cache
+c:\users\александр\documents\visual studio 2013\Projects\littleGame\littleGame\obj\Debug\littleGame.Form1.resources
+c:\users\александр\documents\visual studio 2013\Projects\littleGame\littleGame\obj\Debug\littleGame.Properties.Resources.resources
+c:\users\александр\documents\visual studio 2013\Projects\littleGame\littleGame\obj\Debug\littleGame.csproj.GenerateResource.Cache
+c:\users\александр\documents\visual studio 2013\Projects\littleGame\littleGame\obj\Debug\littleGame.exe
+c:\users\александр\documents\visual studio 2013\Projects\littleGame\littleGame\obj\Debug\littleGame.pdb
+C:\Users\TEMP\Desktop\littleGame\littleGame\bin\Debug\littleGame.exe.config
+C:\Users\TEMP\Desktop\littleGame\littleGame\obj\Debug\littleGame.exe
+C:\Users\TEMP\Desktop\littleGame\littleGame\obj\Debug\littleGame.pdb
+C:\Users\TEMP\Desktop\littleGame\littleGame\bin\Debug\littleGame.exe
+C:\Users\TEMP\Desktop\littleGame\littleGame\bin\Debug\littleGame.pdb
+C:\Users\TEMP\Desktop\littleGame\littleGame\obj\Debug\littleGame.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\littleGame\littleGame\obj\Debug\littleGame.Form1.resources
+C:\Users\TEMP\Desktop\littleGame\littleGame\obj\Debug\littleGame.Properties.Resources.resources
+C:\Users\TEMP\Desktop\littleGame\littleGame\obj\Debug\littleGame.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\littleGame\littleGame\bin\Debug\littleGame.exe.config
+C:\Users\Александр\Desktop\littleGame\littleGame\obj\Debug\littleGame.exe
+C:\Users\Александр\Desktop\littleGame\littleGame\obj\Debug\littleGame.pdb
+C:\Users\Александр\Desktop\littleGame\littleGame\obj\Debug\littleGame.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\littleGame\littleGame\obj\Debug\littleGame.Form1.resources
+C:\Users\Александр\Desktop\littleGame\littleGame\obj\Debug\littleGame.Properties.Resources.resources
+C:\Users\Александр\Desktop\littleGame\littleGame\obj\Debug\littleGame.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\littleGame\littleGame\bin\Debug\littleGame.exe
+C:\Users\Александр\Desktop\littleGame\littleGame\bin\Debug\littleGame.pdb
